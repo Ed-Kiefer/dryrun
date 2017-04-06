@@ -1,3 +1,5 @@
+/* dry - toy program to test out Travis CI */
+
 #include "stdio.h"
 
 int main() 
